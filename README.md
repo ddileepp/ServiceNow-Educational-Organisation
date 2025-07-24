@@ -101,7 +101,7 @@ By implementing EMS in ServiceNow, institutions benefit from a user-friendly, cu
 
 **Devi Dileep**  
 Final Year IT Student  
-ServiceNow Certified Administrator  
+ServiceNow Certified Administrator & Developer
 [LinkedIn Profile](https://www.linkedin.com/in/devi-dileep-chodapuneedi) 
 ---
 
